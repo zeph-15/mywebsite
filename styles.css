@@ -1,3 +1,4 @@
+<style>
 body {
     font-family: Copperplate, Papyrus, fantasy;
     margin: 0;
@@ -5,7 +6,7 @@ body {
     text-align: center;
     background-color: #127046;
 }
-
+</style>
 header {
     background-color: #333;
     color: white;
